@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Guide-ressources CMP</string>
+    <string name="simple_text">हेलो कंपोज़ मल्टीप्लेटफ़ॉर्म!</string>
+    <plurals name="plural_text">
+        <item quantity="one">%1$d Platform</item>
+        <item quantity="other">%1$d Platforms</item>
+    </plurals>
+</resources>
